@@ -1,0 +1,20 @@
+#config-page{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    header{
+        height: 45px;
+        background-color: blue;
+    }
+
+    .sections{
+        background-color: yellow;
+        margin: 10px;
+        height: 800px;
+
+        section{
+            height: 300px;
+            background-color: gray;
+        }
+    }
+}

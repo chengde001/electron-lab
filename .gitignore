@@ -13,6 +13,11 @@ bin-release/
 *.air
 *.ipa
 *.apk
+*.css
+styleSheets/.sass-cache
+*.map
+script/model/*.js
+script/view/*.js
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important

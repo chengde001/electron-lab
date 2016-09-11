@@ -1,0 +1,25 @@
+{
+  "name": "electron-lab",
+  "version": "0.0.1",
+  "description": "My Electron application laboratory",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chengde001/electron-lab.git"
+  },
+  "keywords": [
+    "Electron"
+  ]
+  "author": "chengde001",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chengde001/electron-lab/issues"
+  },
+  "homepage": "https://github.com/electron/electron-quick-start#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.3.5"
+  }
+}
